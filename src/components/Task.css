@@ -1,0 +1,20 @@
+.todoContainer {
+    background-color: green;
+    width: 400px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    color: rgb(182, 237, 182);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-shadow: 2px 4px 4px rgba(54, 63, 54, 0.651);
+}
+.redBackground{
+    background-color: brown;
+}
+
+.todoContainer h3 {
+    font-size: 26px;
+}
